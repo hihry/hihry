@@ -35,7 +35,7 @@
 
 ### 📫 How to Reach Me  
 - 📧 Email: **your-email-here**  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](#)  
+- 💼 LinkedIn: https://www.linkedin.com/in/himanshu-iwanati-87459b282/
 - 🏗️ GitHub: [github.com/hihry](https://github.com/hihry)  
 
 ---
