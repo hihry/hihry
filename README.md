@@ -6,7 +6,6 @@
 
 ### 🚀 About Me  
 - 🎯 **Expert on Codeforces**
-- 🧑‍💻 Solved 200+ problems on **LeetCode**  
 - ⚡ Passionate about **Data Structures, Algorithms, and Backend Systems**  
 - 🔧 Proficient in **C++ | Java | Python**  
 - 🌐 Familiar with **HTML, CSS, JavaScript, Web Dev Fundamentals**  
@@ -14,23 +13,17 @@
 
 ---
 
-### 🔨 Projects  
-- 🌀 **Sorting Visualizer** – Interactive web app (HTML/CSS/JS) visualizing Bubble, Selection, Insertion, Merge & Quick Sort  
-- 🗺️ **Journey Planner** – Web application to plan routes, estimate distances & travel duration (HTML/CSS/JS)  
-
----
-
 ### 📊 Competitive Programming  
-- 🏆 **Codeforces:** [Expert](https://codeforces.com/profile/your_username_here)  
-- 💡 Regular participant in contests & hackathons  
+- 🏆 **Codeforces:** [Expert] 
+- 💡 Regular participant in contests 
 - 🔑 Topics: Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Greedy  
 
 ---
 
 ### ⚡ Skills  
-- **Languages:** C++, Java, Python  
-- **Core:** Data Structures & Algorithms, Backend Fundamentals  
-- **Web:** HTML, CSS, JavaScript  
+- **Languages:** C++, Java, Python 
+- **Core:** Data Structures & Algorithms, Backend Development
+- **Web:** HTML, CSS, JavaScript, Node.js , React  
 
 ---
 
